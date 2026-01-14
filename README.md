@@ -791,3 +791,8 @@ Model 2: K-Means clustering for resource optimization
 - 4-cluster service level classification
 - Priority scoring: 40% gap, 40% demographic, 20% geographic
 - Deployment plan: 951 units, 774 districts, ₹47.55cr budget, 4.75M enrollment impact
+
+#Dataset Links:
+https://www.data.gov.in/files/ogdpv2dms/s3fs-public/uidai/api_data_aadhar_biometric.zip
+https://www.data.gov.in/files/ogdpv2dms/s3fs-public/uidai/api_data_aadhar_demographic.zip
+https://www.data.gov.in/files/ogdpv2dms/s3fs-public/uidai/api_data_aadhar_enrolment.zip
